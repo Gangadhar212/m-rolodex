@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Gangadhar212/monsters-rolodex/static/css/main.5b0edfe1.chunk.css",
+    "main.js": "/Gangadhar212/monsters-rolodex/static/js/main.0d1f2b29.chunk.js",
+    "main.js.map": "/Gangadhar212/monsters-rolodex/static/js/main.0d1f2b29.chunk.js.map",
+    "runtime-main.js": "/Gangadhar212/monsters-rolodex/static/js/runtime-main.4fe6300f.js",
+    "runtime-main.js.map": "/Gangadhar212/monsters-rolodex/static/js/runtime-main.4fe6300f.js.map",
+    "static/js/2.7329d150.chunk.js": "/Gangadhar212/monsters-rolodex/static/js/2.7329d150.chunk.js",
+    "static/js/2.7329d150.chunk.js.map": "/Gangadhar212/monsters-rolodex/static/js/2.7329d150.chunk.js.map",
+    "static/js/3.9db938e1.chunk.js": "/Gangadhar212/monsters-rolodex/static/js/3.9db938e1.chunk.js",
+    "static/js/3.9db938e1.chunk.js.map": "/Gangadhar212/monsters-rolodex/static/js/3.9db938e1.chunk.js.map",
+    "index.html": "/Gangadhar212/monsters-rolodex/index.html",
+    "static/css/main.5b0edfe1.chunk.css.map": "/Gangadhar212/monsters-rolodex/static/css/main.5b0edfe1.chunk.css.map",
+    "static/js/2.7329d150.chunk.js.LICENSE.txt": "/Gangadhar212/monsters-rolodex/static/js/2.7329d150.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fe6300f.js",
+    "static/js/2.7329d150.chunk.js",
+    "static/css/main.5b0edfe1.chunk.css",
+    "static/js/main.0d1f2b29.chunk.js"
+  ]
+}
